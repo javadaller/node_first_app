@@ -10,5 +10,9 @@
   {
     "email": "example3@domain.com",
     "username": "Toto"
+  },
+  {
+    "email": "test2@test.be",
+    "username": "Poney4"
   }
 ]
