@@ -1,11 +1,14 @@
 [
-    {
-        "email":"example@example.com",
-        "username":"Foo"
-    },
-
-    {
-        "email":"example2@domain.com",
-        "username":"Bar"
-    }
+  {
+    "email": "example@example.com",
+    "username": "Foo"
+  },
+  {
+    "email": "example2@domain.com",
+    "username": "Bar"
+  },
+  {
+    "email": "example3@domain.com",
+    "username": "Toto"
+  }
 ]

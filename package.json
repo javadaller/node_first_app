@@ -9,6 +9,7 @@
   "author": "arnaud",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.19.2",
     "jsonfile": "^6.1.0"
   }
